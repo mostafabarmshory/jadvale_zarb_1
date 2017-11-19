@@ -8,6 +8,11 @@ import android.app.Activity;
 import android.view.Menu;
 import android.widget.ListView;
 
+/**
+ * 
+ * @author maso
+ * @author amin
+ */
 public class MainActivity extends Activity {
 
 	@Override
